@@ -41,7 +41,7 @@ Tech books 📚 around CSS, JavaScript, Computer Science, Node.js, Algorithms & 
 ## Algorithms
 
 - [数据结构与算法JavaScript描述](https://github.com/campcc/fe-books/blob/main/algorithms/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95JavaScript%E6%8F%8F%E8%BF%B0.pdf)
-- [算法导论(第2版)](https://github.com/campcc/fe-books/blob/main/algorithms/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA(%E7%AC%AC2%E7%89%88).pdf)
+- [算法导论(第3版)](https://github.com/campcc/fe-books/blob/main/algorithms/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA(%E7%AC%AC3%E7%89%88).pdf)
 - [算法图解](https://github.com/campcc/fe-books/blob/main/algorithms/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3.pdf)
 
 ## Coding
