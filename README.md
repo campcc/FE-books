@@ -47,3 +47,7 @@ Tech books 📚 around CSS, JavaScript, Computer Science, Node.js, Algorithms & 
 ## Coding
 
 - [代码整洁之道](https://github.com/campcc/fe-books/blob/main/coding/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.pdf)
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
